@@ -1,0 +1,7 @@
+Options -Indexes
+DirectoryIndex index.htm index.html index.shtml index.php default.php .index.php
+
+#Prevent users from accessing private data
+#Redirect ^/settings/.*$ 403
+#Redirect ^/users/.*$ 
+Redirect /settings/env /icon.ico

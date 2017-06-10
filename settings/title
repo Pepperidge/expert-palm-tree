@@ -1,0 +1,22 @@
+{
+"allowSignups":"Allow people to set up accounts. (1-Enable, 0-Disable)",
+"requireVerifiedEmail":"Does not work. (1-Enable, 0-Disable)",
+"adminPassword":"The password to access this address",
+"accountDir":"The file path were passwords are saved.",
+"userDir":"The folder tree to which user stats are saved.",
+"add":"Probably for addition question type",
+"div":"Probably for divison question type",
+"mult":"Probably for multiplication question type",
+"sub":"Probably for subtraction question type",
+"neg":"Probably for a negitive number to generate",
+"frac":"Probably for a negitive number to generate",
+"min":"Lowest number that can generate",
+"max":"Highest number that can generate",
+"PurgeQuestion":"Time in min. before a question is invalidated",
+"DupeEmail": "Two accounts can have the same email. (1-Enable, 0-Disable)",
+"PageEmail": "The address users see when verifying their accounts",
+"Host": "Email Server",
+"Port": "Email Port",
+"EmailPassword": "Email Password. (WARNING STORED IN PLAINTEXT)",
+"Announcement": "Posted text on the top of the screen visable to all"
+}
